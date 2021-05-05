@@ -5,13 +5,13 @@
 
 if [ ! -e /var/run/mysqld/gitpod-init.lock ]
 then
-    touch /var/run/mysqld/gitpod-init.lock
+    sudo touch /var/run/mysqld/gitpod-init.lock
 
     # initialize database structures on disk, if needed
-    [ ! -d /workspace/mysql ] && mysqld --initialize-insecure
+    [ ! -d /workspace/mysql ] && sudo mysqld --initialize-insecure
 
     # launch database, if not running
-    [ ! -e /var/run/mysqld/mysqld.pid ] && mysqld --daemonize
+    [ ! -e /var/run/mysqld/mysqld.pid ] && sudo mysqld --daemonize
 
-    rm /var/run/mysqld/gitpod-init.lock
+    sudo rm /var/run/mysqld/gitpod-init.lock
 fi
