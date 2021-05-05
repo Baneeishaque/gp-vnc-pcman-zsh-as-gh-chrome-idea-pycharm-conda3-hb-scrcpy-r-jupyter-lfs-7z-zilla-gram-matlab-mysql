@@ -45,6 +45,6 @@
 ## FileZilla : 3.53.1
 ## Telegram : 2.7.4
 ## Matlab : R2021a
-## MySQL : 8.0
+## MySQL : 5.7
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gp-vnc-pcman-zsh-as-gh-chrome-idea-pycharm-conda3-hb-scrcpy-r-jupyter-lfs-7z-zilla-gram-matlab-mysql)"
