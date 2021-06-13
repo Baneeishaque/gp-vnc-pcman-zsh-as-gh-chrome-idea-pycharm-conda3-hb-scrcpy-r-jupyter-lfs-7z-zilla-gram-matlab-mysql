@@ -1,4 +1,4 @@
-# Gitpod Full VNC Workspace On User Specified Resolution With Tint2, PCMan File Manager, ZSH with Oh My ZSH, Android Studio, Github CLI, Google Chrome, IntelliJ IDEA, Pycharm, Anaconda3 (2020.11), Android Studio Canary, HandBrake, scrcpy, R, littler, Packrat, JupyterLab, Git LFS, 7z, FileZilla, Telegram, Matlab & MySQL
+# Gitpod Full VNC Workspace On User Specified Resolution With Tint2, PCMan File Manager, ZSH with Oh My ZSH, Android Studio, Github CLI, Google Chrome, IntelliJ IDEA, Pycharm, Anaconda3, Android Studio Canary, HandBrake, scrcpy, R, littler, Packrat, JupyterLab, Git LFS, 7z, FileZilla, Telegram, Matlab & MySQL
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/baneeishaque/gp-vnc-pcman-zsh-as-gh-chrome-idea-pycharm-conda3-hb-scrcpy-r-jupyter-lfs-7z-zilla-gram-matlab-mysql)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/baneeishaque/gp-vnc-pcman-zsh-as-gh-chrome-idea-pycharm-conda3-hb-scrcpy-r-jupyter-lfs-7z-zilla-gram-matlab-mysql)
